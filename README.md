@@ -5,6 +5,7 @@ ESTUDANTE DE JAVA
 STACK
 
 *java
+*C++ (microcontroladores)
 
 SOBRE
 
